@@ -4,5 +4,7 @@
 
 Pydotplus y graphviz
 
-`pip install graphviz`
-`pip install pydotplus`
+```
+pip install graphviz
+pip install pydotplus
+```

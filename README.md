@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-Instalar [Graphviz](https://graphviz.gitlab.io/download/) dependiendo de su sistema operativo siguiendo esta [guia](https://bobswift.atlassian.net/wiki/spaces/GVIZ/pages/20971549/How+to+install+Graphviz+software)
+Descargar e instalar [Graphviz](https://graphviz.gitlab.io/download/) dependiendo de su sistema operativo siguiendo esta [guia](https://bobswift.atlassian.net/wiki/spaces/GVIZ/pages/20971549/How+to+install+Graphviz+software)
 
 ## Paquetes necesarios
 

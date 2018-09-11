@@ -10,8 +10,7 @@ graphviz
 
 ```
 pip install graphviz
-pip install math
-pip install csv
+pip install csv #dependiendo de la versión de python, ya lo trae
 ```
 
 [GitHub](https://github.com/joseant12/Decision-Tree-and-Random-Forest)
